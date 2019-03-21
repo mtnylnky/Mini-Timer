@@ -1,0 +1,9 @@
+C:\Users\Root\source\repos\Mini Timer\Mini Timer\bin\Debug\Mini Timer.exe
+C:\Users\Root\source\repos\Mini Timer\Mini Timer\bin\Debug\Mini Timer.pdb
+C:\Users\Root\source\repos\Mini Timer\Mini Timer\obj\Debug\Mini Timer.csprojAssemblyReference.cache
+C:\Users\Root\source\repos\Mini Timer\Mini Timer\obj\Debug\Mini_Timer.Form1.resources
+C:\Users\Root\source\repos\Mini Timer\Mini Timer\obj\Debug\Mini_Timer.Properties.Resources.resources
+C:\Users\Root\source\repos\Mini Timer\Mini Timer\obj\Debug\Mini Timer.csproj.GenerateResource.cache
+C:\Users\Root\source\repos\Mini Timer\Mini Timer\obj\Debug\Mini Timer.csproj.CoreCompileInputs.cache
+C:\Users\Root\source\repos\Mini Timer\Mini Timer\obj\Debug\Mini Timer.exe
+C:\Users\Root\source\repos\Mini Timer\Mini Timer\obj\Debug\Mini Timer.pdb
